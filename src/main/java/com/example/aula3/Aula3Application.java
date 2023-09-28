@@ -8,8 +8,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
+import com.example.aula3.models.CategoriaProduto;
 import com.example.aula3.models.Produto;
-import com.example.aula3.repository.CategoriaProduto;
 import com.example.aula3.repository.CategoriaProdutoRepository;
 import com.example.aula3.repository.ProdutoRepository;
 

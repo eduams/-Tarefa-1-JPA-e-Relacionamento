@@ -1,8 +1,6 @@
-package com.example.aula3.repository;
+package com.example.aula3.models;
 
-import java.util.List; 
-
-import com.example.aula3.models.Produto;
+import java.util.List;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

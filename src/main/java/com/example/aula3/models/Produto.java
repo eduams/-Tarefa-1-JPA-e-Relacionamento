@@ -1,7 +1,5 @@
 package com.example.aula3.models;
 
-import com.example.aula3.repository.CategoriaProduto;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
